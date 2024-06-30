@@ -1,0 +1,6 @@
+SharedMemoryApplication/Debug/
+Client/Debug/
+SharedMemoryApplication/Release
+Client/Release
+Debug/
+.vs/
